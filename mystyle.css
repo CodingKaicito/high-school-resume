@@ -1,0 +1,9 @@
+* { 
+    color: rgb(0, 255, 115);
+    background-color: #f250b9;
+    box-sizing: border-box;
+    scroll-padding-top: 100px; /* Added here *
+
+body {
+    padding-top: 60px; /* Adjust to match your navbar's height */
+}
